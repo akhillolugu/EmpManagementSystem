@@ -1,0 +1,22 @@
+employee-management-system-frontend/
+├── package.json
+├── public/
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   └── components/
+│       ├── EmployeeList.js
+│       ├── AddEmployee.js
+│       ├── EditEmployee.js
+│       └── DeleteEmployee.js (optional)
+employee-management-system-backend/
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/example/employeemanagement/
+│       │       ├── model/
+│       │       ├── repository/
+│       │       ├── service/
+│       │       └── controller/
+│       └── resources/
+│           └── application.properties
